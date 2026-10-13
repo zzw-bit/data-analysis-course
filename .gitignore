@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.codebuddy/
+.DS_Store
+.venv/
+.env
+
+# pickle 是二进制文件，由 notebook 运行时自动生成，不必入库
+*.pkl
