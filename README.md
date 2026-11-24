@@ -18,6 +18,7 @@ VS Code 内核选择 `Python 3 (pytorch)`（不能是 base）。
 20244081104_张梓望_exp02.ipynb   实验2：NumPy、SciPy、Matplotlib 与 pandas
 20244081104_张梓望_hw03.ipynb    作业3：NumPy、Matplotlib 与 pandas（半圆定律、生命游戏、DataFrame）
 20244081104_张梓望_exp03.ipynb   实验3：正则表达式与网络结构化数据
+20244081104_张梓望_hw04.ipynb    作业4：正则表达式与结构化网页数据
 
 Iris.csv                         作业3 的输入数据（含 Id 列，列名带 Cm 后缀）
 iris_corrected.csv               作业3 更正并扩展后导出的结果
